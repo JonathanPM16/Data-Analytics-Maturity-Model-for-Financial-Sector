@@ -6,7 +6,7 @@ This repository contains the artifacts corresponding to a proposed Maturity Mode
 As inputs for the model, information is used about the current situation of the data analytics processes, made up of surveys made to the key participants of said processes and workproducts.
 This information goes through 3 stages: In the Dimensioning stage, the information collected is classified according to the dimension by which it will be analyzed, so that the data analytics processes can be analyzed from five different points of view: Analytical Government , Information Technologies, Culture, Data Analytics and Data Management. Later, in the Diagnostic stage, the evaluator chooses the level at which one or more data analytics processes are based on a given dimension. Finally, based on all the information raised in the diagnosis, the evaluator elaborates proposals for improvement from different points of view. 
 
-![Data Analytics Maturity Model for Financial Sector](/images/Data Analytics Maturity Model.png)
+![Data Analytics Maturity Model for Financial Sector](/images/F1.png)
 
 ## Artifacts
 
